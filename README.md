@@ -1,4 +1,4 @@
-# App lista de contatos
+# App-lista-de-contatos
 Aplicativo criado durante o bootcamp Everis Kotlin Developer da DIO
 
 ## Objetivo do app
